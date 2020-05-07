@@ -73,7 +73,7 @@
 		<SaxonHEVersion>9.4</SaxonHEVersion>
 		<hapiFhirBaseVersion>4.0.3</hapiFhirBaseVersion>
 		<hapiFhirStructuresDstuVersion>4.0.3</hapiFhirStructuresDstuVersion>
-		<hapiValidationResources>4.0.3</hapiValidationResources>
+		<hapiValidationResources>4.2.0</hapiValidationResources>
 		<thymeleafVersion>2.1.4.RELEASE</thymeleafVersion>
 		<phlocSchematronVersion>2.7.1</phlocSchematronVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
