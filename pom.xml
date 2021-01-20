@@ -82,8 +82,8 @@
 		<calculationModuleApiVersion>1.0</calculationModuleApiVersion>
 		<serializationModuleApiVersion>0.2.11</serializationModuleApiVersion>
 		<emrApiConditionModuleApiVersion>1.16</emrApiConditionModuleApiVersion>
-		<jacksonDataBindVersion>2.9.10.1</jacksonDataBindVersion>
-		<swaggerCondeGenVersion>2.3.1</swaggerCondeGenVersion>
+		<jacksonDataBindVersion>2.9.10.7</jacksonDataBindVersion>
+		<swaggerCondeGenVersion>2.4.10</swaggerCondeGenVersion>
 		<reportingcompatibilityVersion>1.5.13</reportingcompatibilityVersion>
 	</properties>
 
