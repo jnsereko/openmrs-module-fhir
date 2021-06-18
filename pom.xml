@@ -72,7 +72,7 @@
 		<xmlStreamVersion>1.0-2</xmlStreamVersion>
 		<SaxonHEVersion>9.4</SaxonHEVersion>
 		<hapiFhirBaseVersion>4.0.3</hapiFhirBaseVersion>
-		<hapiFhirStructuresDstuVersion>4.0.3</hapiFhirStructuresDstuVersion>
+		<hapiFhirStructuresDstuVersion>5.4.0</hapiFhirStructuresDstuVersion>
 		<hapiValidationResources>4.0.3</hapiValidationResources>
 		<thymeleafVersion>2.1.4.RELEASE</thymeleafVersion>
 		<phlocSchematronVersion>2.7.1</phlocSchematronVersion>
@@ -83,7 +83,7 @@
 		<serializationModuleApiVersion>0.2.11</serializationModuleApiVersion>
 		<emrApiConditionModuleApiVersion>1.16</emrApiConditionModuleApiVersion>
 		<jacksonDataBindVersion>2.9.10.1</jacksonDataBindVersion>
-		<swaggerCondeGenVersion>2.3.1</swaggerCondeGenVersion>
+		<swaggerCondeGenVersion>2.4.17</swaggerCondeGenVersion>
 		<reportingcompatibilityVersion>1.5.13</reportingcompatibilityVersion>
 	</properties>
 
