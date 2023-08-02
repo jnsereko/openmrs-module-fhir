@@ -74,7 +74,7 @@
 		<hapiFhirBaseVersion>4.0.3</hapiFhirBaseVersion>
 		<hapiFhirStructuresDstuVersion>4.0.3</hapiFhirStructuresDstuVersion>
 		<hapiValidationResources>4.0.3</hapiValidationResources>
-		<thymeleafVersion>2.1.4.RELEASE</thymeleafVersion>
+		<thymeleafVersion>3.1.2.RELEASE</thymeleafVersion>
 		<phlocSchematronVersion>2.7.1</phlocSchematronVersion>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<appointmentschedulingVersion>1.5</appointmentschedulingVersion>
